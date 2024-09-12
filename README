@@ -1,0 +1,3 @@
+# Evolutionary SVM Kernel Selection
+
+This is a simple piece of code to implement evolutionary kernel selection for an SVM. This is an early work in progress, and is more for the sake of an exercise than as an efficient idea.
