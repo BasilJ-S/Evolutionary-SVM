@@ -1,6 +1,6 @@
 # Evolutionary SVM Kernel Selection
 
-A school assignment implementing evolutionary algorithms to optimize polynomial kernel parameters for Support Vector Machines. Much of the code was provided as part of the assignment framework.
+A personal project implementing evolutionary algorithms to optimize polynomial kernel parameters for Support Vector Machines.
 
 ## Overview
 
